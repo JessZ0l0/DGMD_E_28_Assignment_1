@@ -6,8 +6,7 @@ body {
 
 .name_container {
     display: flex;
-    justify-content: center;
-    margin-right: 21.7rem;
+    margin-right: 12.7rem;
 }
 
 .name {
