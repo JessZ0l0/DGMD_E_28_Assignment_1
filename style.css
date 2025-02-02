@@ -1,0 +1,146 @@
+body {
+ margin: 2rem;
+ padding-left: 2rem;
+ background-color: #E8E3DA;
+}
+
+.name_container {
+    display: flex;
+    justify-content: center;
+    margin-right: 21.7rem;
+}
+
+.name {
+    color: #354259;
+    font-size: 1.5rem;
+    margin: 0;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.jess_image, .jess_image_1, .madeira_flower, .jess_image_2, .jess_image_experience {
+    width: 30%;
+    max-width: 30%;
+    align-items: center;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
+
+.favplace {
+    display: flex;
+    justify-content: space-between;
+    align-content: end;
+}
+
+.madeira_tree{
+    margin-left: 0.9rem;
+}
+
+.madeira_tree, .madeira_sun, .madeira_flower_one{
+    width:200px;
+    max-height: 250px;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+    justify-content: end;
+    align-items: center;
+    padding: 1.4rem;
+}
+
+.container_one {
+    display: flex; 
+    align-items: center;
+}
+
+.p_one {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.p_one span {
+    background-color: #A36F43;
+    color: #E8E3DA;
+    font-size: 2.8rem;
+    display: inline-block;
+    padding: 15px 15px;
+    line-height: 1.5rem;
+    text-align: left;
+    width: fit-content;
+    margin-left: -1.5rem;
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding: 10px 0;
+    padding-bottom: 20px;
+}
+
+.nav1, .nav2, .nav3, .nav4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #E8E3DA;
+    background-color: #A36F43;
+
+}
+
+.navbar a:hover {
+    color: #354259; /* Change color on hover */
+    background-color:#B9B9BD ;
+}
+
+
+
+/* ABOUT ME, MAJOR, CSS */
+.container_about_me, .container_major {
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+}
+
+.section_about_me, .section_major {
+    max-width: 50%;
+    padding-left: 12rem;    
+    color: #354259;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* EXPERIENCE CSS */
+.container_experience_one{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.container_experience_two{
+    display: flex;
+    flex-direction: column;
+}
+
+.container_experience_two h3{
+    color: #354259;
+    text-decoration: underline;
+    padding-left: 12rem;
+    margin-bottom: 0.2rem;
+}
+
+.container_experience_two p{
+    max-width: 70%;
+    color: #354259;
+    line-height: 1.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    padding-left: 12rem;
+}
