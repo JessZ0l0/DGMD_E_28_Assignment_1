@@ -41,7 +41,7 @@ body {
 }
 
 .madeira_tree, .madeira_sun, .madeira_flower_one{
-    width:170px;
+    width:150px;
     max-height: 250px;
     height: 200px;
     object-fit: cover; /*content is sized to maintain aspect ratio while filling in entire content box */
