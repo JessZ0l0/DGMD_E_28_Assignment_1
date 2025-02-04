@@ -13,7 +13,7 @@ body {
 }
 
 .name {
-    position: fixed;
+    position: absolute;
     left: 4rem;
     color: #354259;
     font-size: 1.5rem;
