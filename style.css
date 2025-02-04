@@ -113,6 +113,7 @@ body {
 .container_about_me, .container_major {
 display: flex;
 flex-direction: row;
+/* justify-content: center; */
 
 }
 
