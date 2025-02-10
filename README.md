@@ -6,7 +6,7 @@ This project is part of DGMD E-28 and serves as Assignment 1. The objective of t
 
 ## Project URL
 You can view the project here:  
-[DGMD E-28 Assignment 1](https://jessz0l0.github.io/DGMD_E_28_Assignment_1/)
+- [DGMD E-28 Assignment 1](https://jessz0l0.github.io/DGMD_E_28_Assignment_1/)](https://jessz0l0.github.io/DGMD_E_28_Assignment_2_1/)
 
 ## Features
 - Basic webpage layout with HTML and CSS.
